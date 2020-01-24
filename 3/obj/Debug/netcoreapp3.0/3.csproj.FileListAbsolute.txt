@@ -1,0 +1,15 @@
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.exe
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.deps.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\3.pdb
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\3\obj\Debug\netcoreapp3.0\3.pdb

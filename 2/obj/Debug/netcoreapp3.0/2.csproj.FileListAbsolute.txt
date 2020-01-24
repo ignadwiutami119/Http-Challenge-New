@@ -1,0 +1,13 @@
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.exe
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.deps.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.runtimeconfig.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\2.pdb
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\2\obj\Debug\netcoreapp3.0\2.pdb

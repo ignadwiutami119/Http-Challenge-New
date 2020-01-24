@@ -1,0 +1,13 @@
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.exe
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.deps.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.runtimeconfig.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\1.pdb
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.dll
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\1\obj\Debug\netcoreapp3.0\1.pdb
